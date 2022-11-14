@@ -9,7 +9,7 @@ In my free time I love to do:
 - Wakeboarding 🏄‍♂️
 - ~~Soccer ⚽️~~
 
-Thats a gif:
+This is a gif:
 ![great gif](https://media.emailonacid.com/wp-content/uploads/2019/03/2019-GifsInEmail.gif)
 
 <div align="center">
